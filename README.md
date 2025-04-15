@@ -1,5 +1,5 @@
 <p align="center" style="width:100%">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Coding gif" style="width:100%"/>
+  <img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" alt="Coding gif" style="width:100%"/>
 </p>
 
 <div id="toc">
@@ -60,20 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanyadav-work&theme=radical&show_icons=true&hide_rank=false&include_all_commits=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=amanyadav-work&theme=radical" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=amanyadav-work&theme=algolia" />
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav-work&layout=compact&theme=radical" />
+
+<p align="center" >
+  <img width="49%" height="100%"  src="https://github-readme-stats.vercel.app/api?username=amanyadav-work&theme=algolia&show_icons=true&hide_rank=false&include_all_commits=true" />
+  <img width="49%" height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav-work&layout=compact&theme=algolia" />
 </p>
 
----
-
-### ☕ Support My Work
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/amanwebdev" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="36">
-  </a>
-</p>
