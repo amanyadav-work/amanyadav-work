@@ -70,5 +70,5 @@
     <div align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=amanyadav-work&theme=algolia&show_icons=true&hide_rank=false&include_all_commits=true" width="90%" />
     </div>
-</table>
+</div>
 
