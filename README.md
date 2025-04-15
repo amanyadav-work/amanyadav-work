@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-![👋 Hi, my name is Aman Yadav](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+![👋 Hi, my name is Aman Yadav]([https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif](https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif))
 
 <div id="toc">
   <ul align="center" style="list-style: none">
