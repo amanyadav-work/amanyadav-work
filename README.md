@@ -1,5 +1,11 @@
-<!-- Banner GIF -->
-![👋 Hi, my name is Aman Yadav]([https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif](https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif))
+<p align="center">
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Coding gif" width="150"/>
+</p>
+
+<!-- 🖋 Outfit-styled animated header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Aman+Yadav;MERN+Stack+Developer+from+India;Learning+Next.js+and+Python" alt="Typing SVG" />
+</p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
