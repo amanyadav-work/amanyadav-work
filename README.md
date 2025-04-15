@@ -63,14 +63,12 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=amanyadav-work&theme=algolia" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
+<div width="100%">
+    <div align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav-work&theme=algolia&layout=compact" width="90%" />
-    </td>
-    <td align="center" width="50%">
+    </div>
+    <div align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=amanyadav-work&theme=algolia&show_icons=true&hide_rank=false&include_all_commits=true" width="90%" />
-    </td>
-  </tr>
+    </div>
 </table>
 
