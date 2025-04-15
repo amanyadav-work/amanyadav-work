@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Coding gif" width="150"/>
-</p>
-
-<!-- 🖋 Outfit-styled animated header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+Aman+Yadav;MERN+Stack+Developer+from+India;Learning+Next.js+and+Python" alt="Typing SVG" />
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Coding gif" />
 </p>
 
 <div id="toc">
