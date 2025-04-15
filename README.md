@@ -1,5 +1,12 @@
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+<style>
+  .body,p,ul{
+  font-family: "Outfit", sans-serif;
+}
+  }
+</style>
 <p align="center">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Coding gif" />
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Coding gif" style="width:100%"/>
 </p>
 
 <div id="toc">
