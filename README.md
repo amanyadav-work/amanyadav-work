@@ -63,17 +63,14 @@
   <img width="100%" src="https://streak-stats.demolab.com?user=amanyadav-work&theme=algolia" />
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <img width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav-work&theme=algolia&layout=compact" />
+    </td>
+    <td align="center">
+      <img width="290px" src="https://github-readme-stats.vercel.app/api?username=amanyadav-work&theme=algolia&show_icons=true&hide_rank=false&include_all_commits=true" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0px;">
-
-  <!-- Top Languages Section -->
-  <div align="center">
-    <img width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav-work&theme=algolia&layout=compact" width="100%" />
-  </div>
-
-  <!-- GitHub Stats Section -->
-  <div align="center">
-    <img width="290px" src="https://github-readme-stats.vercel.app/api?username=amanyadav-work&theme=algolia&show_icons=true&hide_rank=false&include_all_commits=true" width="100%" />
-  </div>
-
-</div>
