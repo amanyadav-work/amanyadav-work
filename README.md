@@ -1,5 +1,5 @@
-<p align="center" style="width:100%">
-  <img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" alt="Coding gif" style="width:100%"/>
+<p align="center" width="100%" >
+  <img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" alt="Coding gif" width="100%" height="100%" />
 </p>
 
 <div id="toc">
