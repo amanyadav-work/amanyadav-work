@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<h3 align="left">Passionate MERN stack developer from India, building sleek and scalable web applications. Currently exploring new tech and crafting digital experiences.</h3>
+Passionate MERN stack developer from India, building sleek and scalable web applications. Currently exploring new tech and crafting digital experiences.
 
 ---
 
