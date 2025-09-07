@@ -44,8 +44,8 @@
 ### 💻 Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" height="32" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="32" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" height="32" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" height="32" />
