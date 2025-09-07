@@ -72,7 +72,7 @@
 <div>
   <tr>
     <td align="center" >
-  <img width="290px"  src="https://streak-stats.demolab.com?user=amanyadav-work&theme=algolia&layout=compact" />
+  <img width="300px"  src="https://streak-stats.demolab.com?user=amanyadav-work&theme=algolia&layout=compact" />
     </td>
     <td align="center" >
       <img width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyadav-work&theme=algolia&layout=compact" />
