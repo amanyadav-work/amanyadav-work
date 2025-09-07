@@ -16,9 +16,9 @@
 
 ### ⚡ Rapid Fire
 
-- 💼 Currently working on: **🎮 RPG Game Project**
-- 🌱 Learning: **Next.js & Python**
-- 💬 Ask me about: **React, MongoDB, Express, Node.js**
+- 💼 Currently working on: **🎮 Portrix - 3D Web Builder**
+- 🌱 Learning: **Python**
+- 💬 Ask me about: **React, Next.js, MongoDB, Express, Node.js**
 - 🌐 Portfolio: [amanwebdev.site](https://amanwebdev.site)
 - 📄 Resume: [My Resume](https://drive.google.com/file/d/1EzU8niJGeYmV6zbMjpzEDkaEYF5xJtH1/view)
 
