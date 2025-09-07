@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ Rapid Fire
+### Rapid Fire
 
 - 💼 Currently working on: **🎮 Portrix - 3D Web Builder**
 - 🌱 Learning: **Python**
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤝 Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href="http://amanwebdev.site/" target="_blank">
@@ -47,7 +47,7 @@
 
 ---
 
-### 💻 Skills
+### Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="32" />
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
 </p>
