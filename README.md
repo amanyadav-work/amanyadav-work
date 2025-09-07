@@ -28,17 +28,20 @@
 ### 🤝 Connect with me:
 
 <p align="left">
+  <a href="http://amanwebdev.site/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-20232A?style=flat" height="28">
+  </a>
   <a href="https://linkedin.com/in/amanyadav-workprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28">
+  </a>
+  <a href="mailto:amansyadav31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-20232A?style=flat&logo=gmail&logoColor=red" height="28">
   </a>
   <a href="https://www.behance.net/aman-yadav" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=plastic&logo=behance&logoColor=white" height="28">
   </a>
   <a href="https://www.hackerrank.com/amansyadav31" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white" height="28">
-  </a>
-  <a href="http://amanwebdev.site/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-20232A?style=flat" height="28">
   </a>
 </p>
 
