@@ -20,7 +20,7 @@
 - 💼 Currently working on: **🎮 Portrix - 3D Web Builder**
 - 🌱 Learning: **Python**
 - 💬 Ask me about: **React, Next.js, MongoDB, Express, Node.js**
-- 🌐 Portfolio: [amanwebdev.site](https://amanwebdev.site)
+- 🌐 Portfolio: [amanwebdev.site](https://amandevportfolio.blogspot.com/)
 - 📄 Resume: [My Resume](https://drive.google.com/file/d/1EzU8niJGeYmV6zbMjpzEDkaEYF5xJtH1/view)
 
 ---
@@ -28,7 +28,7 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="http://amanwebdev.site/" target="_blank">
+  <a href="https://amandevportfolio.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-20232A?style=flat" height="28">
   </a>
   <a href="https://linkedin.com/in/amanyadav-workprofile" target="_blank">
