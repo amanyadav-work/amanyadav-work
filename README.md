@@ -22,7 +22,7 @@ Fullstack developer specializing in Next.js, MERN stack, and Golang. I build **s
 - 🌱 Learning: **Golang & DevOps fundamentals**
 - 💬 Ask me about: **React, Next.js, Node.js, Golang, Python, MongoDB, PostgreSQL**
 - 🌐 Portfolio: [yadavaman.com](https://yadavaman.com/)
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/17fJdIXDyzCoTTgZwN14AeSYkSjKdOLux/view)
+- 📄 Resume: [View PDF](https://yadavaman.com/resume)
 
 ---
 
